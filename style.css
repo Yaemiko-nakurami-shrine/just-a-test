@@ -1,4 +1,4 @@
-body {background:#330000 url(/img/background.jpg) fixed center center; color:#000000; font: 10pt "verdana", "tahoma", "arial"}
+body {background:#330000 url(https://i.pinimg.com/736x/34/18/49/34184946a2bab7a4ba11ade01575999d.jpg) fixed center center; color:#000000; font: 10pt "verdana", "tahoma", "arial"}
 a {text-decoration:underline; color:#993300}
 a:hover {text-decoration:none}
 table {font: 10pt "verdana", "tahoma", "arial"}
@@ -10,7 +10,7 @@ div {text-align:justify}
 
 .letter {
 font-family: 'gothic'
-font-size: 70px;
+font-size 70px;
 line-height: 60px;    
 vertical-align: top;
 display: inline-block;
@@ -20,5 +20,5 @@ margin: 0 10px 0 0;
 
 @font-face {
 font-family: 'gothic'; 
-src: url(/files/fonts/ancient.ttf); 
+src: url(https://www.dafont.com/ancient.font); 
 }
